@@ -1,2 +1,2 @@
 # GraphPython
-Generación de un grafo en Python a partir de un archivo .csv
+Generación de un grafo en Python a partir de archivos.csv
